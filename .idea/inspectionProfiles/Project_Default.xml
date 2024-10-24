@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="30">
+            <item index="0" class="java.lang.String" itemvalue="paddleocr" />
+            <item index="1" class="java.lang.String" itemvalue="paddlepaddle-gpu" />
+            <item index="2" class="java.lang.String" itemvalue="fitz" />
+            <item index="3" class="java.lang.String" itemvalue="pyahocorasick" />
+            <item index="4" class="java.lang.String" itemvalue="langchain" />
+            <item index="5" class="java.lang.String" itemvalue="gevent" />
+            <item index="6" class="java.lang.String" itemvalue="Flask" />
+            <item index="7" class="java.lang.String" itemvalue="dbutils" />
+            <item index="8" class="java.lang.String" itemvalue="jieba" />
+            <item index="9" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="10" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="11" class="java.lang.String" itemvalue="torch" />
+            <item index="12" class="java.lang.String" itemvalue="pyhanlp" />
+            <item index="13" class="java.lang.String" itemvalue="torchvision" />
+            <item index="14" class="java.lang.String" itemvalue="pandas" />
+            <item index="15" class="java.lang.String" itemvalue="flask" />
+            <item index="16" class="java.lang.String" itemvalue="torchaudio" />
+            <item index="17" class="java.lang.String" itemvalue="imbalanced-learn" />
+            <item index="18" class="java.lang.String" itemvalue="xlrd" />
+            <item index="19" class="java.lang.String" itemvalue="sentence_transformers" />
+            <item index="20" class="java.lang.String" itemvalue="ultralytics" />
+            <item index="21" class="java.lang.String" itemvalue="pymupdf4llm" />
+            <item index="22" class="java.lang.String" itemvalue="dill" />
+            <item index="23" class="java.lang.String" itemvalue="markdown2" />
+            <item index="24" class="java.lang.String" itemvalue="pathlib" />
+            <item index="25" class="java.lang.String" itemvalue="elasticsearch_dsl" />
+            <item index="26" class="java.lang.String" itemvalue="struct-eqtable" />
+            <item index="27" class="java.lang.String" itemvalue="unimernet" />
+            <item index="28" class="java.lang.String" itemvalue="detectron2" />
+            <item index="29" class="java.lang.String" itemvalue="pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
